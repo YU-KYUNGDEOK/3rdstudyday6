@@ -1,0 +1,200 @@
+body{
+    margin:0px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.up{
+    display:flex;
+    justify-content: space-around;
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    padding:5px;
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#1ed760;
+}
+
+
+.nav-font{
+    padding:15px;
+    font-size:16px;
+    text-decoration-line: none;
+    color:white;
+    font-weight: 650;
+}
+
+.mdeco{
+    height: 968px;
+    background-color: rgb(41, 65, 171);
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    background-size: 175%;
+    background-position: 46% 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.centerfont{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+
+    
+    color: #1ed760;
+    
+    position: relative;
+    font-size: 200px;
+
+}
+
+.firstsecondline{
+    font-size: 146px;
+}
+
+.fline{
+    padding-right:270px;
+    font-weight: 900;
+}
+
+.sline{
+    padding-left:370px;
+    font-weight: 900;
+}
+
+.thirdline{
+    font-size: 18px;
+    padding:15px;
+    
+    
+}
+
+.bdeco{
+    
+    font-size: 13px;
+    color: #2941ab;
+    background-color: #1ed760;
+    padding: 14px 32px;
+    border-radius: 500px;
+    font-weight: 550;
+    border: none;
+
+    
+  
+}
+
+.barea{
+    display:flex;
+    justify-content:center;
+    margin:20px;
+}
+
+.bdeco:hover {
+    transform: scale(1.07);
+    background-color: #2de26d;
+  }
+
+
+
+footer {
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+  }
+.container {
+    max-width: 1170px;
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 50px;
+  }
+  
+.fmenu {
+    display:flex;
+    justify-content:space-between;
+    height:345px;
+  }
+
+.firstbox {
+    width:60%;
+    display:flex;
+    justify-content:space-between;
+  }
+
+.secondbox {
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .fmenuitem {
+    padding-bottom: 15px;
+    padding-top: 3px;
+    font-size: 15px;
+  }
+
+  .fcolumn {
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px;
+    
+  }
+
+  .sub-title {
+    color: #919496;
+    font-weight: 800;
+    margin: 20px 0px;
+  }
+
+  .icon-box {
+    width: 54px;
+    height: 54px;
+    background-color: #222322;
+    border-radius: 50%;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .icon {
+    font-size: 24px;
+    color:white;
+  }
+
+  .icon:hover {
+    color: #2de26d;
+  }
+
+  .first-line {
+    color: #919496;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12px;
+  }
+
+  .second-line {
+    color: #919496;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+  }
+
+  .second-line-item {
+    margin-right: 24px;
+    color: #919496;
+  }
+
