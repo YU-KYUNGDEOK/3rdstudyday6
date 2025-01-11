@@ -13,8 +13,7 @@ body{
     height: 70px;
     text-align: center;
     align-items: center;
-    
-}
+    }
 
 a{
     color:white;
@@ -43,7 +42,6 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-
     
 }
 
@@ -58,29 +56,27 @@ a:hover{
     
     position: relative;
     font-size: 200px;
-
-}
+    }
 
 .firstsecondline{
     font-size: 146px;
-}
+    }
 
 .fline{
     padding-right:270px;
     font-weight: 900;
-}
+    }
 
 .sline{
     padding-left:370px;
     font-weight: 900;
-}
+    }
 
 .thirdline{
     font-size: 18px;
     padding:15px;
     
-    
-}
+    }
 
 .bdeco{
     
@@ -92,20 +88,18 @@ a:hover{
     font-weight: 550;
     border: none;
 
-    
-  
-}
+    }
 
 .barea{
     display:flex;
     justify-content:center;
     margin:20px;
-}
+    }
 
 .bdeco:hover {
     transform: scale(1.07);
     background-color: #2de26d;
-  }
+    }
 
 
 
@@ -115,7 +109,8 @@ footer {
     display: flex;
     justify-content: center;
   }
-.container {
+
+  .container {
     max-width: 1170px;
     width: 100%;
     padding-top: 80px;
@@ -132,7 +127,7 @@ footer {
     width:60%;
     display:flex;
     justify-content:space-between;
-  }
+    }
 
 .secondbox {
     width: 40%;
